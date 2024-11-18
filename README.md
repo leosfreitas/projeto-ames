@@ -17,10 +17,10 @@ Ensure you have the following installed:
 - Git (optional, for cloning the repository)
 
 ### 2. Clone the Repository
-Use the following command to clone the project (if hosted on a Git repository):
+Use the following command to clone the project:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/leosfreitas/projeto-ames
 ```
 
 Alternatively, download the ZIP file of the project and extract it.
