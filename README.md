@@ -1,8 +1,8 @@
 # Project Ames
 
 ## Team Members:
-- **Henrique Turco**  
-- **Leonardo Freitas**
+- **Henrique Turco Gera**  
+- **Leonardo Sterman Freitas**
 
 ---
 
