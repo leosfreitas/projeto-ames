@@ -51,19 +51,3 @@ ames.ipynb
 
 ---
 
-## Usage Instructions
-
-1. **Prepare the Dataset**  
-   Place the dataset (if not included) in the appropriate directory specified in the project documentation or configuration files.
-
-2. **Run the Analysis**  
-   Launch the main script to start data preprocessing, feature engineering, and modeling:
-   ```bash
-   python main.py
-   ```
-
-3. **Results and Outputs**  
-   Check the outputs in the designated folders (e.g., `outputs/` or `results/`) for analysis results, visualizations, or model predictions.
-
----
-
